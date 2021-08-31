@@ -6,7 +6,7 @@ if ($n === 1) {
 } else if ($n === 2) {
   $message = 'サーバーサイドエンジニアです';
 } else {
-  $message = '営業マンです';
+  $message = '社長です';
 }
 ?>
 
