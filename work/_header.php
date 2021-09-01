@@ -8,6 +8,7 @@ if ($n === 1) {
 } else {
   $message = '社長です';
 }
+
 ?>
 
 <!DOCTYPE html>
